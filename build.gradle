@@ -18,5 +18,5 @@ dependencies {
 
 wrapper {
     version '4.10.2'
-    distributionType 'bin'
+    distributionType 'all'
 }
