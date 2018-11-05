@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: learning-app
+  profiles:
+    active: production
+
+server:
+  port: 8443
+  ssl:
+    enabled: true
+    key-store: classpath:keystore.jks
+    key-store-password: something
