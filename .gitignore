@@ -1,6 +1,6 @@
 
 /.gradle/
-/.idea/
 /build/
-!/.idea/externalDependencies.xml
-!/.idea/saveactions_settings.xml
+.idea/*
+!.idea/externalDependencies.xml
+!.idea/saveactions_settings.xml

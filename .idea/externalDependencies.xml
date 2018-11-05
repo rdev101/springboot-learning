@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Lombook Plugin" />
+    <plugin id="com.dubreuia" />
+    <plugin id="com.github.setial" />
+    <plugin id="com.intellij.copyright" />
+    <plugin id="mobi.hsz.idea.gitignore" />
+    <plugin id="org.jetbrains.plugins.gradle" />
+  </component>
+</project>
